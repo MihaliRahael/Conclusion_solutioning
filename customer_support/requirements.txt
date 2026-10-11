@@ -1,0 +1,20 @@
+# Core (all have Python 3.15 wheels)
+pandas>=2.2
+openpyxl>=3.1
+pymupdf>=1.24
+fastapi>=0.110
+uvicorn>=0.29
+streamlit>=1.35
+pydantic>=2.6
+requests>=2.31
+python-dotenv>=1.0
+pytest>=8.0
+httpx>=0.27          # FastAPI TestClient
+
+# Orchestration + persistent conversation memory (checkpointer). Needs the ormsgpack wheel, so Python 3.12/3.13.
+# On newer Pythons these are skipped and the app uses a built-in runner with in-memory sessions.
+langgraph>=0.2; python_version < "3.14"
+langgraph-checkpoint-sqlite>=2.0; python_version < "3.14"
+
+# Optional semantic retrieval (needs torch/onnxruntime wheels: Python <= 3.13).
+# Without them the app uses built-in keyword retrieval. Install with: pip install -r requirements-embeddings.txt

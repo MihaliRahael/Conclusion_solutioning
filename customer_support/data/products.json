@@ -1,0 +1,32 @@
+[
+  {
+    "ProductID": "P001",
+    "ProductName": "Product 1",
+    "Category": "General",
+    "UnitPrice": "100"
+  },
+  {
+    "ProductID": "P002",
+    "ProductName": "Product 2",
+    "Category": "General",
+    "UnitPrice": "200"
+  },
+  {
+    "ProductID": "P003",
+    "ProductName": "Product 3",
+    "Category": "General",
+    "UnitPrice": "300"
+  },
+  {
+    "ProductID": "P004",
+    "ProductName": "Product 4",
+    "Category": "General",
+    "UnitPrice": "400"
+  },
+  {
+    "ProductID": "P005",
+    "ProductName": "Product 5",
+    "Category": "General",
+    "UnitPrice": "500"
+  }
+]

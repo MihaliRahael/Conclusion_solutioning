@@ -1,0 +1,97 @@
+{
+  "source": {
+    "file": "Detailed_Sample_Refund_Policy.pdf",
+    "sha256": "d505e8bd5ae60011d5ec15c61a50a999884757644a4f19f435d57b57aa5db2d3"
+  },
+  "hash": "23d76c125a19b895134292660358de59aa18b561ab3a933af21a2d7de363f184",
+  "rules": {
+    "window_days": 30,
+    "auto_reject_days": 30,
+    "damage_report_days": 7,
+    "manager_approval_above": 2000.0
+  },
+  "chunks": [
+    {
+      "section": 0,
+      "title": "Purpose",
+      "text": "This policy defines the conditions under which customers may request a return, replacement, or\nrefund for products purchased from ABC Retail.",
+      "pages": [
+        1
+      ],
+      "ref": "§0 Purpose (p.1)"
+    },
+    {
+      "section": 1,
+      "title": "Refund Eligibility",
+      "text": "Customers may request a refund within 30 calendar days from the delivery date. To qualify:\n• The item must be unused and in its original condition.\n• Original packaging, accessories, manuals, and labels must be included.\n• A valid invoice or proof of purchase is required.\n• The order must not be marked as 'Final Sale'.",
+      "pages": [
+        1
+      ],
+      "ref": "§1 Refund Eligibility (p.1)"
+    },
+    {
+      "section": 2,
+      "title": "Non-Refundable Items",
+      "text": "Refunds are not available for:\n• Digital products after activation or download.\n• Gift cards or store credits.\n• Personalized or custom-made products.\n• Hygiene products after opening.\n• Products damaged due to misuse, negligence, or unauthorized repair.",
+      "pages": [
+        1
+      ],
+      "ref": "§2 Non-Refundable Items (p.1)"
+    },
+    {
+      "section": 3,
+      "title": "Damaged or Incorrect Deliveries",
+      "text": "If an item arrives damaged, defective, or incorrect:\n• Report the issue within 7 days of delivery.\n• Provide photographs of the product and packaging.\n• Customers may choose a replacement or full refund after verification.",
+      "pages": [
+        1
+      ],
+      "ref": "§3 Damaged or Incorrect Deliveries (p.1)"
+    },
+    {
+      "section": 4,
+      "title": "Return Shipping",
+      "text": "• Customers are responsible for return shipping unless the return is due to our error.\n• Shipping fees are refundable only when the wrong or defective product was delivered.",
+      "pages": [
+        1
+      ],
+      "ref": "§4 Return Shipping (p.1)"
+    },
+    {
+      "section": 5,
+      "title": "Refund Processing",
+      "text": "• Approved refunds are processed within 5–7 business days.\n• Credit card refunds may take an additional 3–10 business days depending on the bank.\n• Original shipping charges are not refunded unless required by this policy.",
+      "pages": [
+        1
+      ],
+      "ref": "§5 Refund Processing (p.1)"
+    },
+    {
+      "section": 6,
+      "title": "Partial Refunds",
+      "text": "Partial refunds may be issued when:\n• The product is returned with minor missing accessories.\n• The item shows light customer-induced wear.\n• The returned quantity is less than the purchased quantity.",
+      "pages": [
+        1
+      ],
+      "ref": "§6 Partial Refunds (p.1)"
+    },
+    {
+      "section": 7,
+      "title": "Exchange Policy",
+      "text": "Customers may request an exchange instead of a refund if identical stock is available.\nExchanges follow the same eligibility rules as refunds.",
+      "pages": [
+        1
+      ],
+      "ref": "§7 Exchange Policy (p.1)"
+    },
+    {
+      "section": 8,
+      "title": "Special Business Rules",
+      "text": "• Orders older than 30 days are automatically rejected.\n• Premium members receive priority processing.\n• Orders above $2,000 require manager approval before refund.\n• Bulk or corporate purchases are reviewed individually.\n• Fraudulent refund requests may result in account suspension.",
+      "pages": [
+        1,
+        2
+      ],
+      "ref": "§8 Special Business Rules (p.1-2)"
+    }
+  ]
+}

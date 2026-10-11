@@ -1,0 +1,24 @@
+{
+  "ingested_at": "2026-10-11T05:46:33+00:00",
+  "workbook": {
+    "file": "Sample_Customer_Data.xlsx",
+    "sha256": "10f4fb70bfdb17f5c52e21c9e1d164051e5215d86c32f1d0e29aaf9f9b2354e1",
+    "rows": {
+      "Customers": 10,
+      "Orders": 10,
+      "Products": 5
+    }
+  },
+  "policy": {
+    "file": "Detailed_Sample_Refund_Policy.pdf",
+    "sha256": "d505e8bd5ae60011d5ec15c61a50a999884757644a4f19f435d57b57aa5db2d3",
+    "sections": 9,
+    "rules": {
+      "window_days": 30,
+      "auto_reject_days": 30,
+      "damage_report_days": 7,
+      "manager_approval_above": 2000.0
+    }
+  },
+  "embeddings": "sentence-transformers/all-MiniLM-L6-v2"
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "CustomerID": "C001",
+    "Name": "Customer 1",
+    "Email": "customer1@example.com",
+    "Phone": "9876500001",
+    "City": "City 2"
+  },
+  {
+    "CustomerID": "C002",
+    "Name": "Customer 2",
+    "Email": "customer2@example.com",
+    "Phone": "9876500002",
+    "City": "City 3"
+  },
+  {
+    "CustomerID": "C003",
+    "Name": "Customer 3",
+    "Email": "customer3@example.com",
+    "Phone": "9876500003",
+    "City": "City 4"
+  },
+  {
+    "CustomerID": "C004",
+    "Name": "Customer 4",
+    "Email": "customer4@example.com",
+    "Phone": "9876500004",
+    "City": "City 5"
+  },
+  {
+    "CustomerID": "C005",
+    "Name": "Customer 5",
+    "Email": "customer5@example.com",
+    "Phone": "9876500005",
+    "City": "City 1"
+  },
+  {
+    "CustomerID": "C006",
+    "Name": "Customer 6",
+    "Email": "customer6@example.com",
+    "Phone": "9876500006",
+    "City": "City 2"
+  },
+  {
+    "CustomerID": "C007",
+    "Name": "Customer 7",
+    "Email": "customer7@example.com",
+    "Phone": "9876500007",
+    "City": "City 3"
+  },
+  {
+    "CustomerID": "C008",
+    "Name": "Customer 8",
+    "Email": "customer8@example.com",
+    "Phone": "9876500008",
+    "City": "City 4"
+  },
+  {
+    "CustomerID": "C009",
+    "Name": "Customer 9",
+    "Email": "customer9@example.com",
+    "Phone": "9876500009",
+    "City": "City 5"
+  },
+  {
+    "CustomerID": "C010",
+    "Name": "Customer 10",
+    "Email": "customer10@example.com",
+    "Phone": "9876500010",
+    "City": "City 1"
+  }
+]
